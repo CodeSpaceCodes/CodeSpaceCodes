@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Ndiphiwokuhle Mazeka, from South Africa. I am doing software development at CodeSpace Cape Town campus.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeSpaceCodes)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **CodeSpaceCodes/CodeSpaceCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
